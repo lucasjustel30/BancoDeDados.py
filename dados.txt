@@ -1,0 +1,7 @@
+acao,posicao,setor
+PETR4,12.9,commodity
+VALE3,9.1,commodity
+BBSE3,7.8,seguradora
+ENBR3,7.6,energia
+CPLE6,6.0,energia
+BBAS3,5.3,banco
